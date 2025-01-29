@@ -3,4 +3,5 @@ Setup for collecting acceleration data with 2 esp 32 and a adxl345. One esp32+ad
 
 ![image](https://github.com/user-attachments/assets/2e8ec30f-b1ed-4480-b4dd-95effdc3afd9)
 
-![image](https://github.com/user-attachments/assets/0dd1233b-470c-4579-b380-72a97ac6d0fd)
+![image](https://github.com/user-attachments/assets/bc1de332-7c03-4a88-8218-3260e7fa124c)
+
