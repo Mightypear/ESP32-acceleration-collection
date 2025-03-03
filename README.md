@@ -1,3 +1,4 @@
+Your phone has an great accelerometer. you can achive the same result with an app like (sensor logger), and export a csv directly from your phone.
 Setup for collecting acceleration data with 2 esp 32 and a adxl345. One esp32+adxl345 is mounted on a bike and send acceleration data with esp now to the other esp, which lets you monitor it trough serail.
 
 
